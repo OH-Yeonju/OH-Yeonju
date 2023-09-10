@@ -17,11 +17,13 @@
 <img alt="Dart" src="https://img.shields.io/badge/dart-0175C2?&style=for-the-badge&logo=dart&logoColor=white"/>
 <img alt="Flutter" src="https://img.shields.io/badge/flutter-02569B?&style=for-the-badge&logo=flutter&logoColor=white"/>
 
+<br/>
+<br/>
 
 ## **Project ✍**
 </div>
 
-### 👉[말하길](https://github.com/Speaking-Path)
+### 👉 [말하길](https://github.com/Speaking-Path)
 \- 구음장애인의 언어재활을 돕는 웹 서비스
 
 
@@ -31,7 +33,7 @@
 \- FE(React)
   <br/>
 
-### 👉[Key'pl](https://github.com/OH-Yeonju/WebProject)
+### 👉 [Key'pl](https://github.com/OH-Yeonju/WebProject)
 \- 영화 추천 웹 서비스
 
 
@@ -41,7 +43,7 @@
 \- BE(Django), FE(Vue.js)
   <br/>
 
-### 👉[채움(...ing 진행중)]()
+### 👉 [채움(...ing 진행중)]()
 \- 빅데이터 기반 농축수산물과 관련 레시피 추천 플랫폼
 
 
