@@ -20,19 +20,25 @@
 
 ## **Project ✍**
 <h4>👉[말하길](https://github.com/Speaking-Path)</h4>
-<Tab>\- 구음장애인의 언어재활을 돕는 웹 서비스
-<Tab>\- 기간 : 2023.07.04. - 2023.08.18
-<Tab>\- FE(React)
+<Tab>- 구음장애인의 언어재활을 돕는 웹 서비스
+<br/>
+<Tab>- 기간 : 2023.07.04. - 2023.08.18
+<br/>
+<Tab>- FE(React)
 <br/>
 <h4>👉[Key'pl](https://github.com/OH-Yeonju/WebProject)</h4>
-<Tab>\- 영화 추천 웹 서비스
-<Tab>\- 기간 : 2023.05.17 - 2023.05.25
-<Tab>\- BE(Django), FE(Vue.js)
+<Tab>- 영화 추천 웹 서비스
+<br/>
+<Tab>- 기간 : 2023.05.17 - 2023.05.25
+<br/>
+<Tab>- BE(Django), FE(Vue.js)
 <br/>
 <h4>👉[채움(...ing 진행중)]()</h4>
-<Tab>\- 빅데이터 기반 농축수산물과 관련 레시피 추천 플랫폼
-<Tab>\- 기간 : 2023.08.21 - 
-<Tab>\- FE(Flutter)
+<Tab>- 빅데이터 기반 농축수산물과 관련 레시피 추천 플랫폼
+<br/>
+<Tab>- 기간 : 2023.08.21 - 
+<br/>
+<Tab>- FE(Flutter)
 <br/>
 
 </div>
