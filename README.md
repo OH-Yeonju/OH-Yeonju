@@ -19,7 +19,6 @@
 
 
 ## **Project ✍**
-<hr/>
 <h4>👉[말하길](https://github.com/Speaking-Path)</h4>
 <Tab>\- 구음장애인의 언어재활을 돕는 웹 서비스
 <Tab>\- 기간 : 2023.07.04. - 2023.08.18
