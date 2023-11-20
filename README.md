@@ -21,35 +21,41 @@
 <br/>
 
 ## **Project ✍**
+
 </div>
 
-### 👉 [말하길](https://github.com/Speaking-Path)
-\- 구음장애인의 언어재활을 돕는 웹 서비스
+### 👉 [에브리스쿨]()
 
+\- 악성 민원 방지 및 교내 소통 통합 어플리케이션
+
+\- 기간 : 2023.10.09 - 2023.11.17
+
+\- FE(Flutter)
+<br/>
+
+### 👉 [채움](https://github.com/ChaeumApp/Chaeum)
+
+\- 빅데이터 기반 농축수산물과 관련 레시피 추천 플랫폼
+
+\- 기간 : 2023.08.21 - 2023.10.16
+
+\- FE(React, Flutter)
+<br/>
+
+### 👉 [말하길](https://github.com/Speaking-Path)
+
+\- 구음장애인의 언어재활을 돕는 웹 서비스
 
 \- 기간 : 2023.07.04. - 2023.08.18
 
-
 \- FE(React)
-  <br/>
+<br/>
 
 ### 👉 [Key'pl](https://github.com/OH-Yeonju/WebProject)
-\- 영화 추천 웹 서비스
 
+\- 영화 추천 웹 서비스
 
 \- 기간 : 2023.05.17 - 2023.05.25
 
-
 \- BE(Django), FE(Vue.js)
-  <br/>
-
-### 👉 [채움(...ing 진행중)]()
-\- 빅데이터 기반 농축수산물과 관련 레시피 추천 플랫폼
-
-
-\- 기간 : 2023.08.21 - 
-
-
-\- FE(Flutter)
-  <br/>
-
+<br/>
