@@ -30,7 +30,7 @@
 
 \- 기간 : 2023.10.09 - 2023.11.17
 
-\- FE(Flutter)
+\- FE(React, Flutter)
 <br/>
 
 ### 👉 [채움](https://github.com/ChaeumApp/Chaeum)
@@ -39,7 +39,7 @@
 
 \- 기간 : 2023.08.21 - 2023.10.16
 
-\- FE(React, Flutter)
+\- FE(Flutter)
 <br/>
 
 ### 👉 [말하길](https://github.com/Speaking-Path)
