@@ -24,7 +24,7 @@
 
 </div>
 
-### 👉 [에브리스쿨]()
+### 👉 [에브리스쿨](https://github.com/OH-Yeonju/everyschool)
 
 \- 악성 민원 방지 및 교내 소통 통합 어플리케이션
 
