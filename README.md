@@ -25,7 +25,7 @@
 <img alt="CSS3" src="https://img.shields.io/badge/css3-1572B6?&style=for-the-badge&logo=css3&logoColor=white"/>
 <img alt="Dart" src="https://img.shields.io/badge/dart-0175C2?&style=for-the-badge&logo=dart&logoColor=white"/>
 <img alt="Flutter" src="https://img.shields.io/badge/flutter-02569B?&style=for-the-badge&logo=flutter&logoColor=white"/>
-<img alt="ReactNative" src="https://img.shields.io/badge/ReactNative-61DAFB?&style=for-the-badge&logo=ReactNative&logoColor=white"/>
+<img alt="ReactNative" src="https://img.shields.io/badge/ReactNative-61DAFB?&style=for-the-badge&logo=react&logoColor=white"/>
 <br/>
 <img alt="Git" src="https://img.shields.io/badge/git-F05032?&style=for-the-badge&logo=git&logoColor=white"/>
 <img alt="Jira" src="https://img.shields.io/badge/jira-0052CC?&style=for-the-badge&logo=jira&logoColor=white"/>
