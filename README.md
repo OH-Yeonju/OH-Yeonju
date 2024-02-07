@@ -21,7 +21,7 @@
 <br/>
 <img alt="Django" src="https://img.shields.io/badge/django-092E20?&style=for-the-badge&logo=django&logoColor=white"/>
 <img alt="springboot" src="https://img.shields.io/badge/springboot-6DB33F?&style=for-the-badge&logo=springboot&logoColor=white"/>
-<img alt="MaridDB" src="https://img.shields.io/badge/MaridDB-003545?&style=for-the-badge&logo=mariadb&logoColor=white"/>
+<img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545?&style=for-the-badge&logo=mariadb&logoColor=white"/>
 <br/>
 <img alt="HTML5" src="https://img.shields.io/badge/html5-E34F26?&style=for-the-badge&logo=html5&logoColor=white"/>
 <img alt="CSS3" src="https://img.shields.io/badge/css3-1572B6?&style=for-the-badge&logo=css3&logoColor=white"/>
@@ -43,7 +43,7 @@
 
 </div>
 
-### 👉 [여기](https://github.com/yeo-gi)
+### 👉 [여기](https://github.com/yeo-gi) (진행중)
 
 \- 여행 일정, 동행, 정산 관리 어플리케이션
 
