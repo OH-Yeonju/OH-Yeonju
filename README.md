@@ -61,7 +61,7 @@
 \- FE(React, Flutter)
 <br/>
 
-### 👉 [채움](https://github.com/ChaeumApp/Chaeum)
+### 👉 [채움](https://github.com/ChaeumApp)
 
 \- 빅데이터 기반 농축수산물과 관련 레시피 추천 플랫폼
 
