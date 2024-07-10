@@ -43,15 +43,6 @@
 
 </div>
 
-### 👉 [여기](https://github.com/yeo-gi) (진행중)
-
-\- 여행 일정, 동행, 정산 관리 어플리케이션
-
-\- 기간 : 2024.01.15 - 진행중
-
-\- BE(Spring Boot), FE(React Native)
-<br/>
-
 ### 👉 [에브리스쿨](https://github.com/OH-Yeonju/everyschool)
 
 \- 악성 민원 방지 및 교내 소통 통합 어플리케이션
